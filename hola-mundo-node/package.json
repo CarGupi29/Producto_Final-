@@ -1,0 +1,16 @@
+{
+  "name": "holaa-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de 35 para el 901 vespertino",
+  "main": "index.js",
+  "scripts": {
+    "Nombre": "Raymundo Lara",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Nombre2":"Car Gutierrez piedras"
+
+  }
+  "author": "Rayoo",
+  "license": "ISC"
+} 
+
+
